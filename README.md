@@ -3,7 +3,7 @@
 
 ### Language and Tools:
 <p>
-  Java Progaming Language
+  JAVA,HTML
  </p>
 
  ### Stats:
